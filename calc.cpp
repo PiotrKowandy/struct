@@ -7,7 +7,7 @@ using namespace std;
 int main (int argc, char * argv[]) {
 
 	if (argc != 4){
-		cerr<< "Error: number of arguments is invalid." << endl;
+		cerr<< "Error: count of arguments is invalid." << endl;
 		return 1;
 	}
 
