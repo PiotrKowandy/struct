@@ -11,7 +11,6 @@ int main (int argc, char * argv[]) {
 		return 1;
 	}
 
-
 	double lhs = stod (argv[1]);
 	string op = argv[2];
 	double rhs = stod(argv[3]);
@@ -27,7 +26,5 @@ int main (int argc, char * argv[]) {
 		return 1;
 	}
 	
-
-
 	return 0;
 }
