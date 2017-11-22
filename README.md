@@ -1,7 +1,5 @@
-/*
+
 Author: Piotr Kowańdy
-Repository name: struct
-*/
 
 
 All programs has been wrote in C++ to improve knowledge.
