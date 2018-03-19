@@ -54,7 +54,7 @@ int main (int argc, char *argv[]){
             }
         }
 
-        cout << "\nTo leave program, please choice 0.\n";
+        cout << "\nTo leave program, please choose 0.\n";
         cin >> choice;
     }
 
